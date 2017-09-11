@@ -2,3 +2,6 @@
 xcompmgr -n &
 #feh --randomize --bg-scale ~/Picture/wallpaper/
 #while true; do nitrogen --random --set-scaled ~/Pictures/wallpaper/; sleep 5; done &
+nitrogen --restore &
+tint2 &
+docky &
