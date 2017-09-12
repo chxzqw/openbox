@@ -5,3 +5,4 @@ xcompmgr -n &
 nitrogen --restore &
 tint2 &
 docky &
+light-locker &
