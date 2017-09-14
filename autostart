@@ -6,3 +6,6 @@ nitrogen --restore &
 tint2 &
 docky &
 light-locker &
+cbatticon &
+volumeicon &
+nm-applet &
